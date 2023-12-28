@@ -1,2 +1,4 @@
 # code
-This is my first git repository.which i learning
+This is my first git repository.
+<br>
+which i learning
